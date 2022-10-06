@@ -3,7 +3,7 @@
 <img width="40%" align="right" src="workbench.svg" >
 A bit about myself, I am <b>Anant Prakash Singh</b>👦 pursuing my <b>Computer Science Degree</b>💻 currently in second year from <b>Indian Institute of Technology Ropar🏫</b>. As of now, I am focused on <b>Competitive Programming, Web Development and Backend Engineering</b> but still wish to explore many fields.⚡
 
-<h3 align="center">Competitive Programming Enthusiast | Passionate Web Developer</h3>
+<h3 align="center">Competitive Programmer | Passionate Web Developer</h3>
 
 <br>
 
