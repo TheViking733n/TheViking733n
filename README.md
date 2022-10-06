@@ -1,7 +1,9 @@
-#  Hi there 👋, I am [Anant Prakash Singh!](https://linkedin.com/in/anant-prakash-singh-625b21224) 
+<!-- #  Hi there 👋, I am [Anant Prakash Singh!](https://linkedin.com/in/anant-prakash-singh-625b21224) -->
+
+<h1> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="Hi.gif" width="30"></h1>
 
 <img width="40%" align="right" src="workbench.svg" >
-A bit about myself, I am <b>Anant Prakash Singh</b>👦 pursuing my <b>Computer Science Degree</b>💻 currently in second year from <b>Indian Institute of Technology Ropar🏫</b>. As of now, I am focused on <b>Competitive Programming, Web Development and Backend Engineering</b> but still wish to explore many fields.⚡
+A bit about myself, I am <a href="https://linkedin.com/in/anant-prakash-singh-625b21224">Anant Prakash Singh</a> 👦 pursuing my <b>Computer Science Degree</b>💻 currently in second year from <b>Indian Institute of Technology Ropar🏫</b>. As of now, I am focused on <b>Competitive Programming, Web Development and Backend Engineering</b> but still wish to explore many fields.⚡
 
 <h3 align="center">Competitive Programmer | Passionate Web Developer</h3>
 
