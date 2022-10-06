@@ -1,11 +1,11 @@
 #  Hi there 👋, I am Anant Prakash Singh!
+<div>
+<img width="40%" align="right" src="workbench.svg" >
+A bit about myself, I am <b>Anant Prakash Singh</b>👦 pursuing my <b>Computer Science Degree</b>💻 currently in second year from <b>Indian Institute of Technology Ropar🏫</b>. As of now, I am focused on <b>Competitive Programming, Web Development and Backend Engineering</b> but still wish to explore many fields.⚡
+</div>
 
-<!-- # 💫 About Me: -->
-<!-- # 👦 About Me: -->
-😄 Pronouns: He/His<br>🔭 I'm currently a CSE sophomore at IIT Ropar.<br>🌱 I’m currently learning MERN Stack and Flutter.<br>🌱 I'm interested in Competitive Programming and Backend Engineering.<br>💻 I'm proficient in Python, JavaScript, Node.js, C++, React.js, HTML, CSS, C, Java<br>✨ Looking forward to collaborate on some amazing projects.<br>🤝 Let's get in touch and form long lasting bonds.
+Looking forward to collaborate on some amazing projects. Let's get in touch and form long lasting bonds.🤝
 
-
-<!-- <h3 align="left">🌐 Connect with me:</h3> -->
 # 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/anant-prakash-singh-625b21224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant-prakash-singh-625b21224" height="30" width="40" /></a>
