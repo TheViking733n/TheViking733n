@@ -1,9 +1,11 @@
 <!-- #  Hi there 👋, I am [Anant Prakash Singh!](https://linkedin.com/in/anant-prakash-singh-625b21224) -->
 
+![Heatmap](banner.jpg)
+
 <h1> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="Hi.gif" width="30"></h1>
 
 <img width="40%" align="right" src="coding.gif" >
-A bit about myself, I am <a href="https://linkedin.com/in/anant-prakash-singh-625b21224">Anant Prakash Singh</a> 👦 pursuing my <b>Computer Science Degree</b>💻 currently in pre-final year from <b>Indian Institute of Technology Ropar🏫</b>. I am a caffeine-fueled alchemist who turns coffee☕ into code and ideas into reality. As of now, I am focused on <b>Competitive Programming, Web Development and Backend Engineering</b> but still wish to explore many fields.⚡
+A bit about myself, I am <a href="https://theviking733n.github.io/">Anant Prakash Singh</a> 👦 pursuing my <b>Computer Science Degree</b>💻 currently in pre-final year from <b>Indian Institute of Technology Ropar🏫</b>. I am a caffeine-fueled alchemist who turns coffee☕ into code and ideas into reality. As of now, I am focused on <b>Competitive Programming, Web Development and Backend Engineering</b> but still wish to explore many fields.⚡
 
 <h3 align="center">Competitive&nbsp;Programmer | Passionate&nbsp;Web&nbsp;Developer</h3>
 
@@ -47,7 +49,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <div align="center">
 
-  [![Projects](https://img.shields.io/badge/projects-%23430098?style=for-the-badge)](https://theviking733n.github.io/)
+  [![Projects](https://img.shields.io/badge/my_projects-%23430098?style=for-the-badge)](https://theviking733n.github.io/)
   
 </div>
 
@@ -108,7 +110,7 @@ Logo  | Project Name | Description |
 
 
 
-![](heatmap.svg)
+![Heatmap](heatmap.svg)
 
 
 
