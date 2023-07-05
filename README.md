@@ -1,6 +1,6 @@
 <!-- #  Hi there 👋, I am [Anant Prakash Singh!](https://linkedin.com/in/anant-prakash-singh-625b21224) -->
 
-![Heatmap](banner.jpg)
+<!-- ![Banner](banner.jpg) -->
 
 <h1> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="Hi.gif" width="30"></h1>
 
