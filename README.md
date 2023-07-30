@@ -13,7 +13,7 @@ A bit about myself, I am <a href="https://theviking733n.github.io/">Anant Prakas
 
 <div align="center">
 
-  [![Projects](https://img.shields.io/badge/portfolio-%23430098?style=for-the-badge)]([https://theviking733n.github.io/](https://anant-prakash-singh.vercel.app/))
+[![Projects](https://img.shields.io/badge/portfolio-%23430098?style=for-the-badge)](https://anant-prakash-singh.vercel.app/)
   
 </div>
 
