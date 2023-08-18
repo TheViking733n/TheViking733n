@@ -13,7 +13,7 @@ A bit about myself, I am <a href="https://anant-prakash-singh.vercel.app/">Anant
 
 <div align="center">
 
-[![Projects](https://img.shields.io/badge/portfolio-%23430098?style=for-the-badge)](https://anant-prakash-singh.vercel.app/)
+[![Projects](https://img.shields.io/badge/portfolio-%23430098?style=for-the-badge)](https://anant-prakash-singh.vercel.app/projects)
   
 </div>
 
